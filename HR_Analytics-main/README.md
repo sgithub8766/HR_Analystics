@@ -1,6 +1,6 @@
 # Employee_Retention Analysis
 
-# PowerBI Dashboard![Screenshot 2024-02-04 184026](https://github.com/Abhinandanroy0003/HR_Analytics/assets/122961957/4ef58e8f-9305-479e-ac27-7e728220f392)
+# PowerBI Dashboard![Screenshot 2024-02-04 184026](https://github.com/sgithub/HR_Analytics/assets/122961957/4ef58e8f-9305-479e-ac27-7e728220f392)
 Welcome to my Employee Retention Analysis project! 📊
 
 Project Overview: In today's dynamic business landscape, retaining top talent is crucial for organizational success. This project focuses on leveraging HR Analytics to gain deeper insights into employee retention trends using Microsoft Power BI. By examining historical data, we aim to provide actionable insights for HR professionals and decision-makers to enhance employee satisfaction, reduce turnover, and drive business growth.
